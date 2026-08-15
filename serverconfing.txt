@@ -1,0 +1,5 @@
+autocreate=2
+worldname=MyWorld
+maxplayers=5
+password=123456
+difficulty=0
